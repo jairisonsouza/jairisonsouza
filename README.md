@@ -14,6 +14,14 @@
 
 ##
 
+<div>
+<a href="https://github.com/jairisonsouza">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairisonsouza&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jairisonsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+##
+
 <div> 
   <a href="https://www.instagram.com/jairosilva.ti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:jairison.analistadesistemas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
