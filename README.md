@@ -22,7 +22,6 @@ Sou um profissional de Tecnologia da Informação com quase 10 anos de experiên
   <img align="center" alt="Logo GCP" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GCP-Dark.svg">
   <img align="center" alt="Logo Docker" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg">
   <img align="center" alt="Logo Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Jenkins-Light.svg">
-  <img align="center" alt="Logo Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Ubuntu-Light.svg">
   <img align="center" alt="Logo Terraform" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Terraform-Dark.svg">
   <img align="center" alt="Logo GitLab" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GitLab-Light.svg">
   <img align="center" alt="Logo Grafana" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Grafana-Dark.svg">
